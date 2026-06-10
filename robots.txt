@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /cadastro/
+
+Sitemap: https://edusidegum.github.io/cadastro/sitemap.xml
